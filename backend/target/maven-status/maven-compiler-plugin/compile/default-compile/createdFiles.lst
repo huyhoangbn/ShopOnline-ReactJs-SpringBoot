@@ -1,0 +1,9 @@
+com\shoponline\entity\User.class
+com\shoponline\service\UserService.class
+com\shoponline\service\ProductService.class
+com\shoponline\repository\UserRepository.class
+com\shoponline\entity\Product.class
+com\shoponline\repository\ProductRepository.class
+com\shoponline\controller\UserController.class
+com\shoponline\ShopOnlineApplication.class
+com\shoponline\model\response\Res.class
